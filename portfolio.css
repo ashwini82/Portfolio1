@@ -1,0 +1,26 @@
+portfolio.css
+.col-sm-3{
+	background-size: cover;
+	background-color: grey;
+}
+body{background: #ccc;
+}
+#header a:hover{
+	color: #fff;
+
+}
+
+#bg-img{
+	background:url(https://images.unsplash.com/photo-1507919909716-c8262e491cde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=889&q=80);
+  background-size:100%;
+  background-repeat:no-repeat;
+  min-height:700px;
+}
+.jumbotron{
+	margin:10px;
+	width:20%;
+
+}
+h2{
+	font-family:cursive;
+}
